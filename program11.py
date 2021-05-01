@@ -1,0 +1,5 @@
+print(12*13)
+print(226/5)
+print(16 * 16)
+print(16 ** 2)
+print(169 % 7)
